@@ -289,10 +289,6 @@ body {
   margin-bottom: 24px;
 }
 
-.text-bag{
-  text-wrap: wrap;
-}
-
 .footer {
   display: grid;
   grid-template-columns: 1fr auto 1fr;
