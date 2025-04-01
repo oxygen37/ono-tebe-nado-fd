@@ -94,20 +94,20 @@
 }
 
 .left-word {
-  text-align: left;
   line-height: 122px;
+  text-align: left;
 }
 
 .center-word {
-  text-align: center;
-  letter-spacing: 24px;
   line-height: 145px;
+  letter-spacing: 24px;
+  text-align: center;
 }
 
 .right-word {
+  line-height: 129px;
   letter-spacing: 28.5px;
   text-align: right;
-  line-height: 129px;
 }
 
 .description {
@@ -258,21 +258,21 @@
 }
 
 .about__title {
+  margin-bottom: 78px;
   color: black;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
-  margin-bottom: 78px;
 }
 
 .about__text {
+  margin-top: 24px;
   color: black;
   font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
-  margin-top: 24px;
 }
 
 .footer {
