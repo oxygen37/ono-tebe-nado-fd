@@ -10,12 +10,12 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 92px 50px 96px 50px;
+  padding: 92px 48px 96px 50px;
 }
 
 .menu_list {
   display: flex;
-  gap: 33.7px;
+  gap: 37.3px;
   color: black;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -41,7 +41,7 @@
 }
 
 .address_list {
-  width: 233px;
+  width: 231px;
   color: black;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -85,7 +85,6 @@
   font-family:'Raleway', sans-serif;
   font-weight: 700;
   font-size: 100px;
-  line-height: 130px;
   letter-spacing: 30px;
   text-transform: uppercase;
 }
@@ -96,23 +95,27 @@
 
 .left-word {
   text-align: left;
+  line-height: 122px;
 }
 
 .center-word {
   text-align: center;
+  letter-spacing: 24px;
+  line-height: 145px;
 }
 
 .right-word {
-  letter-spacing: 29px;
+  letter-spacing: 28.5px;
   text-align: right;
+  line-height: 129px;
 }
 
 .description {
  display: flex;
  justify-content: space-between;
  align-items: center;
- padding: 101px 50px 50px 50px;
- word-spacing: 19px;
+ padding: 95px 50px 50px 50px;
+ word-spacing: 17.9px;
 }
 
 .description_title {
@@ -243,7 +246,7 @@
 .about-text-title {
   display: flex;
   flex-direction: column;
-  padding-top: 135px;
+  padding-top: 133px;
  }
 
 .about__column {
@@ -251,6 +254,7 @@
   grid-template-columns: min-content 1fr;
   grid-template-rows: min-content 1fr;
   grid-column-gap: 121px;
+  margin-bottom: 50px;
 }
 
 .about__title {
@@ -264,7 +268,7 @@
 
 .about__text {
   color: black;
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway, sans-serif;
   font-weight: 400;
   font-size: 20px;
   line-height: 24px;
@@ -277,7 +281,7 @@
   justify-items: baseline;
   justify-content: center;
   align-items: start;
-  margin-top: 180px;
+  margin-top: 208px;
   padding-right: 50px;
   padding-left: 50px;
 }
@@ -287,7 +291,7 @@
   justify-content: space-between;
   width: 240px;
   height: 48px;
-  padding-left: 185px;
+  padding-left: 188px;
   list-style-type: none;
 }
 
