@@ -1,28 +1,28 @@
 @font-face {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
   src: local('Raleway-Regular'),
-  url(/fonts/Raleway-Regular.ttf) format(ttf),
-  url(/fonts/Raleway-Regular.woff) format(woff),
-  url(/fonts/Raleway-Regular.woff2) format(woff2);
+  url('Raleway-Regular.ttf') format(ttf),
+  url('Raleway-Regular.woff') format(woff),
+  url('Raleway-Regular.woff2') format(woff2);
   font-weight: normal;
   font-display: swap;
 }
 @font-face {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway';
   src: local('Raleway-Medium'),
-  url(/fonts/Raleway-Medium.ttf) format(ttf),
-  url(/fonts/Raleway-Medium.woff) format(woff),
-  url(/fonts/Raleway-Medium.woff2) format(woff2);
+  url('Raleway-Medium.ttf') format(ttf),
+  url('Raleway-Medium.woff') format(woff),
+  url('Raleway-Medium.woff2') format(woff2);
   font-weight: 500;
   font-display: swap;
  
 }
 @font-face {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway';
   src: local('Raleway-Bold'),
-  url(/fonts/Raleway-Bold.ttf) format(ttf),
-  url(/fonts/Raleway-Bold.woff) format(woff),
-  url(/fonts/Raleway-Bold.woff2) format(woff2);
+  url('Raleway-Bold.ttf') format(ttf),
+  url('Raleway-Bold.woff') format(woff),
+  url('Raleway-Bold.woff2') format(woff2);
   font-weight: bold;
   font-display: swap;
 }
