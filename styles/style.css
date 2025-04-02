@@ -252,7 +252,7 @@
   display: grid;
   grid-template-columns: min-content 1fr;
   grid-template-rows: min-content 1fr;
-  grid-column-gap: 125px;
+  grid-column-gap: 123px;
   margin-bottom: 50px;
 }
 
@@ -280,7 +280,7 @@
   justify-items: baseline;
   justify-content: center;
   align-items: start;
-  margin-top: 184px;
+  margin-top: 185px;
   padding-right: 48px;
   padding-left: 50px;
   padding-bottom: 82px;
